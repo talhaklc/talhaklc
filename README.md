@@ -1,5 +1,5 @@
 
-Greetings!, this is Talha Kılıç,
+Greetings!,
 
 I'm a **Big Data Engineer** with nearly 10 years of experience in building **scalable architectures**, **real-time analytics solutions**, and **distributed data pipelines**
 
