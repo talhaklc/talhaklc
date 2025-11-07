@@ -1,7 +1,7 @@
 
 Greetings!,
 
-I'm a **Big Data Engineer** with nearly 10 years of experience in building **scalable architectures**, **real-time analytics solutions**, and **distributed data pipelines**
+I'm a **Lead Data and AI Solution Engineer** with nearly 10 years of experience in building **scalable architectures**, **real-time analytics solutions**, and **distributed data pipelines**
 
 ---
 
