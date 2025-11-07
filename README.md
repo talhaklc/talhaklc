@@ -7,7 +7,7 @@ I'm a **Lead Data and AI Solution Engineer** with nearly 10 years of experience 
 
 #### 🤖 What I'm Working On
 
-I'm currently focused on developing **AI Agents** — intelligent systems that can **autonomously analyze data**, **make decisions**, and **optimize complex workflows**. These agents:
+I'm currently focused on developing **AI Agents** intelligent systems that can **autonomously analyze data**, **make decisions**, and **optimize complex workflows**. These agents:
 
 - Process vast amounts of structured & unstructured data
 - Extract actionable insights
